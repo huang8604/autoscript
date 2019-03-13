@@ -1,8 +1,8 @@
 # autoscript
 
 
-Android
-  add some auto build script 
+## Android 
+add some auto build script 
 
 
-Ubuntu
+## Ubuntu
